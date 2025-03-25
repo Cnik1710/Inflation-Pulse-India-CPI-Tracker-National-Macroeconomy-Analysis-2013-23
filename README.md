@@ -1,4 +1,4 @@
-# CPI (Consumer Price Index)Data Analysis Case Study
+# CPI (Consumer Price Index) Data Analysis Case Study
 
 This analysis will require breaking down CPI data by broader categories, identifying trends in inflation over time, and correlating external economic factors like oil price fluctuations with domestic inflation. Here's a structured approach to tackling each question:
 
