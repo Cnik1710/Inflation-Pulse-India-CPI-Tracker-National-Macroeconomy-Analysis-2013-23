@@ -29,7 +29,7 @@ This case study aims to analyze India's CPI data to uncover key trends, evaluate
 
 ## Data and Methodology
 - **Data Source:** National Statistical Office (NSO), India.
-- **Tools Used:** Python (Pandas, Matplotlib, Seaborn), Excel.
+- **Tools Used:** MS Excel.
 - **Analysis Approach:** Data aggregation, visualization, and statistical analysis.
 
 ## Expected Outcomes
