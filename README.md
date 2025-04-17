@@ -1,4 +1,4 @@
-# CPI (Consumer Price Index) Data Analysis Case Study
+### CPI (Consumer Price Index) Data Analysis Case Study
 
 ## Overview
 This case study aims to analyze India's CPI data to uncover key trends, evaluate inflationary pressures, and assess external economic factors affecting domestic inflation. The study is structured into five key areas, each addressing critical aspects of CPI inflation.
