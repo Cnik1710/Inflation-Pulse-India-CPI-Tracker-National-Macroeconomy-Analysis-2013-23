@@ -109,14 +109,12 @@ The project was developed using:
 
 * **Monthly Inflation:**
 
-  $$
-  \text{Monthly Inflation Rate} = \left( \frac{\text{CPI}_{\text{current}} - \text{CPI}_{\text{previous}}}{\text{CPI}_{\text{previous}}} \right) \times 100
-  $$
-* **Annual Inflation:**
+  Monthly Inflation Rate = ((CPI_current_month − CPI_previous_month) / CPI_previous_month)×100
+  
+ * **Annual Inflation:**
 
-  $$
-  \text{Annual Inflation Rate} = \left( \frac{\text{CPI}_{\text{end}} - \text{CPI}_{\text{start}}}{\text{CPI}_{\text{start}}} \right) \times 100
-  $$
+  Yearly Inflation Rate = ((CPI_current_year − CPI_previous_year) / CPI_previous_year)×100
+ 
 * **Correlation Coefficient (Excel):**
   `=CORREL(range1, range2)` to assess external price shocks (e.g., oil)
 
