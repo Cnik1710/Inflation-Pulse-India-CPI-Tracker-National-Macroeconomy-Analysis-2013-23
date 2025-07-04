@@ -1,6 +1,6 @@
 ---
 
-# 🇮🇳 India CPI Inflation Case Study 📈
+# India CPI Inflation Case Study 📈
 
 **A Comprehensive Analysis of Inflation Trends and Macroeconomic Influences (2017–2023)**
 
