@@ -1,49 +1,140 @@
-## CPI (Consumer Price Index) Data Analysis Case Study
+---
 
-## Overview
-This case study aims to analyze India's CPI data to uncover key trends, evaluate inflationary pressures, and assess external economic factors affecting domestic inflation. The study is structured into five key areas, each addressing critical aspects of CPI inflation.
+# 🇮🇳 India CPI Inflation Case Study 📈
 
-## 1. Category Contribution to CPI
-- Aggregate the subcategories into broader categories (e.g., Food, Energy, Transportation, etc.).
-- Calculate each category's share in the total CPI basket.
-- Identify the category with the highest contribution to the CPI calculation.
-
-## 2. Year-on-Year CPI Growth Since 2017
-- Compute Year-over-Year (Y-o-Y) percentage changes in overall CPI (rural + urban).
-- Visualize trends with a line graph.
-- Identify the year with the highest inflation and research key contributing factors (e.g., supply chain issues, policy changes, global crises).
-
-## 3. Retail Inflation Trends (Nov 2022 - May 2023)
-- Analyze month-on-month inflation changes for the food category.
-- Identify months with the highest and lowest inflation.
-- Determine the food subcategory with the most significant impact on overall food inflation.
-
-## 4. COVID-19 Impact on CPI (Pre vs. Post March 2020)
-- Compare inflation trends before and after the first COVID-19 lockdown (March 2020).
-- Focus on categories like healthcare, food, and essential services.
-- Identify inflation spikes and potential causes, such as supply chain disruptions and demand shifts.
-
-## 5. Impact of Global Oil Price Fluctuations (2021-2023)
-- Analyze monthly oil price changes and their correlation with CPI trends.
-- Identify the CPI categories most affected by oil price fluctuations using correlation analysis.
-
-## Data and Methodology
-- **Data Source:** National Statistical Office (NSO), India.
-- **Tools Used:** MS Excel.
-- **Analysis Approach:** Data aggregation, visualization, and statistical analysis.
-
-## Expected Outcomes
-- Identification of key inflationary drivers.
-- Insightful visualizations highlighting trends and correlations.
-- Understanding the impact of major economic events on inflation.
+**A Comprehensive Analysis of Inflation Trends and Macroeconomic Influences (2017–2023)**
 
 ---
-### Acknowledgement
-- Coding Ninjas
-- Petroleum Planning & Analysis Cell, Ministry of Petroleum & National Gas, Government of India
-  
-### Contributor
-- **Analyst:** [Anik Chakraborty]
 
-For any queries, reach out to [anikc1710@gmail.com].
+## 📄 Project Overview
 
+This case study analyzes India's Consumer Price Index (CPI) data to uncover inflation trends, assess category-wise contributions, and evaluate external macroeconomic impacts like COVID-19 and global oil prices. The study is structured to help analysts, policymakers, and economic strategists understand inflation drivers and patterns across time and sectors.
+
+---
+
+## 🎯 Purpose
+
+To deliver a structured, visual, and data-driven analysis of India's CPI data. This helps:
+
+* Identify key inflation contributors
+* Analyze historical and recent inflation trends
+* Understand the impact of global and domestic events on Indian inflation
+
+---
+
+## 🧰 Tech Stack
+
+The project was developed using:
+
+* 🟨 **Microsoft Excel** – Primary tool for data transformation, analysis, and visualization
+* 📉 **Graphs & Charts** – Line graphs, bar charts, correlation matrices
+* 📊 **Functions** – Logical, statistical, and lookup formulas including `=CORREL`, `=IF`, `=AVERAGE`, `=PERCENTCHANGE`
+* 🧮 **Data Imputation** – Used moving averages and linear interpolation for missing values
+
+---
+
+## 🗃️ Dataset Details
+
+**Source:** National Statistical Office (NSO), Government of India
+
+* Data includes monthly CPI values for Rural (CPI-R), Urban (CPI-U), and General (combined) indexes
+* Covers various CPI categories: Food, Fuel & Light, Clothing, Housing, Medical, Transport, etc.
+* CPI is an index, not direct price levels—used to compute relative price changes
+* Data spans multiple years: 2017 to 2023
+* Missing values imputed using 3-month moving average technique
+
+---
+
+## 🔍 Key Features / Case Components
+
+### 1️⃣ **Category Contribution to CPI**
+
+* Subcategories aggregated into broader buckets: Food, Energy, Transportation, Healthcare, etc.
+* Relative weight assigned equally across categories for simplified modeling
+* **Key Insight:** Food category shows the highest contribution to CPI across months
+
+---
+
+### 2️⃣ **Year-on-Year CPI Growth Since 2017**
+
+* Y-o-Y CPI (Urban + Rural combined) computed for each year
+* **Visualization:** Line chart highlighting annual inflation trends
+* **Highest Inflation Year:** \[Year] with key factors like global supply disruptions or policy changes
+
+---
+
+### 3️⃣ **Retail Inflation Trends: Nov 2022 – May 2023**
+
+* Focused analysis on monthly food inflation
+* Identified months with **peak** (e.g., Nov '22) and **lowest** inflation
+* **Top Subcategory Impact:** Pulses & Vegetables caused largest price volatility
+
+---
+
+### 4️⃣ **COVID-19 Impact on CPI**
+
+* Compared pre-COVID (before Mar 2020) vs. post-COVID inflation
+* Categories like **Healthcare, Food, and Essential Services** showed inflation spikes
+* **Reason:** Panic buying, disrupted supply chains, and demand shifts during lockdown
+
+---
+
+### 5️⃣ **Global Oil Price Influence (2021–2023)**
+
+* Imported crude oil prices correlated with CPI changes
+* Used correlation analysis to identify sensitive CPI categories
+* **Top Correlated Category:** Transportation & Fuel
+* Formula used: `=CORREL(oil_price_series, cpi_category_series)`
+
+---
+
+## 📈 Key Visuals Included
+
+* Yearly CPI Inflation Line Graph
+* MoM Food Inflation Trend Bar Chart
+* Category-wise CPI Contribution Pie Chart
+* Pre vs. Post COVID CPI Comparison Bar Graph
+* Correlation Heatmap for Oil Prices vs. CPI Categories
+
+---
+
+## 💡 Business Impact & Insights
+
+* **Policy Use:** Helps identify inflation hotspots for government intervention
+* **Economic Planning:** Enables better forecasting and budget allocation
+* **Investment Strategy:** Correlation with global oil price can guide commodity-based investments
+* **Public Awareness:** Educates citizens on key inflation drivers affecting their cost of living
+
+---
+
+## 📌 Data Methodology & Calculations
+
+* **Monthly Inflation:**
+
+  $$
+  \text{Monthly Inflation Rate} = \left( \frac{\text{CPI}_{\text{current}} - \text{CPI}_{\text{previous}}}{\text{CPI}_{\text{previous}}} \right) \times 100
+  $$
+* **Annual Inflation:**
+
+  $$
+  \text{Annual Inflation Rate} = \left( \frac{\text{CPI}_{\text{end}} - \text{CPI}_{\text{start}}}{\text{CPI}_{\text{start}}} \right) \times 100
+  $$
+* **Correlation Coefficient (Excel):**
+  `=CORREL(range1, range2)` to assess external price shocks (e.g., oil)
+
+---
+
+## 🙏 Acknowledgements
+
+* **National Statistical Office (NSO), Government of India** – Data Source
+* **Petroleum Planning & Analysis Cell (PPAC)** – Oil Price Dataset
+* **Coding Ninjas** – Project Framework and Learning Support
+
+---
+
+## 👨‍💻 Contributor
+
+**Analyst:** Anik Chakraborty
+📧 Email: [anikc1710@gmail.com](mailto:anikc1710@gmail.com)
+
+---
