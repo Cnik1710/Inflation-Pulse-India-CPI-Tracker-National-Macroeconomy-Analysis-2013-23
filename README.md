@@ -170,6 +170,12 @@ aids in hedging and informed portfolio planning.
 
 ---
 
+## 🖥️ Dashboard Overview
+
+![image alt](https://github.com/Cnik1710/CPI-Consumer-Price-Index-Data-Analysis/blob/3b62c85574080b1ae24ada8a1ea20b0ce43d1dae/Inflation%20Pulse%20India%20CPI%20Tracker%20National%20Macroeconomy%20Analysis%20Final%20Report.png)
+
+---
+
 ## ✅ Business Impact & Use Cases
 
 * **Government & Policy Bodies:**
@@ -185,11 +191,6 @@ aids in hedging and informed portfolio planning.
     Track cost-of-living trends and adjust budgets or pricing models accordingly.
 
 ---
-
-## 🖥️ Dashboard Overview
-
-
-
 
 ## 🙏 Acknowledgements
 
