@@ -148,12 +148,25 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
 
 **Summary:**
 
-* **Food inflation** remains the dominant driver due to ~50% CPI weightage.
-* **2022 inflation peaks** exposed vulnerabilities in supply-chain resilience and global dependency.
-* **Month-on-month volatility** in essentials directly affects low-income households.
-* Inflation management requires **real-time price monitoring** and **timely interventions**.
-* **Fuel policies and tax structures** crucial for macroeconomic stability.
-* For investors, **CPI-linked sector analysis** aids in hedging and informed portfolio planning.
+* **Food inflation** remains the primary driver of India’s overall CPI due to its nearly 50% weight — making supply-side stability critical.
+  
+* **2022 inflation peaks** exposed vulnerabilities in supply chain resilience and dependency on global commodities, especially fuel and food.
+  
+* **Month-on-month volatility** in essentials directly impacts lower-income households, emphasizing the need for:
+* Food inflation 
+* 2022 inflation peaks 
+* Month-on-month 
+* Real-time agricultural price monitoring
+* Timely policy interventions (MSP, stock release)
+* Strengthened logistics and distribution systems
+
+* Inflation management requires **real-time price monitoring** and **timely interventions**. Forward-looking preparedness — governments must anticipate lagged inflation spikes post-crisis and ensure stability in core consumer categories (food, healthcare, housing).
+
+
+* Oil price fluctuations have a cascading impact across sectors; hence, **Fuel policies and tax structures (subsidies, tax control/calibration)**, **global oil market monitoring** crucial for macroeconomic stability.  
+
+* For businesses and investors, tracking **CPI-linked sector analysis (FMCG, logistics, energy)** can guide smarter pricing and risk management decisions,
+aids in hedging and informed portfolio planning.   
 
 ---
 
