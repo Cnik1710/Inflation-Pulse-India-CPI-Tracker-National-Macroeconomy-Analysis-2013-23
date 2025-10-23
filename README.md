@@ -186,28 +186,6 @@ Track cost-of-living trends and adjust budgets or pricing models accordingly.
 
 ---
 
-## 📌 Data Methodology & Calculations
-
-**Monthly Inflation:**
-[
-\text{Monthly Inflation Rate} = \frac{(CPI_{current} - CPI_{previous})}{CPI_{previous}} \times 100
-]
-
-**Annual Inflation:**
-[
-\text{Yearly Inflation Rate} = \frac{(CPI_{current\ year} - CPI_{previous\ year})}{CPI_{previous\ year}} \times 100
-]
-
-**Correlation Coefficient (Excel):**
-
-```excel
-=CORREL(range1, range2)
-```
-
-Used to assess relationships (e.g., crude oil vs. CPI).
-
----
-
 ## 🙏 Acknowledgements
 
 **Project Analyst:** Anik Chakraborty
