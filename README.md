@@ -95,31 +95,33 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
 
 ## ❓ Problem Statements
 
-**1. CPI Category Contribution**
+**Key Questions:**
 
-* Identify contribution of major CPI categories (Food, Energy, Health, etc.)
-* Determine which category has the **highest weight** in CPI composition
+* **1. CPI Category Contribution**
 
-**2. Year-on-Year CPI Inflation Trends**
+* * Identify contribution of major CPI categories (Food, Energy, Health, etc.)
+* * Determine which category has the **highest weight** in CPI composition
 
-* Analyze YoY inflation (Rural + Urban) since 2017
-* Identify the **year with highest inflation rate** and reasons behind it
+* **2. Year-on-Year CPI Inflation Trends**
 
-**3. Month-on-Month Food Inflation (Jun’22 – May’23)**
+* * Analyze YoY inflation (Rural + Urban) since 2017
+* * Identify the **year with highest inflation rate** and reasons behind it
 
-* Study 12-month food inflation trajectory
-* Highlight months with **highest and lowest food inflation**
-* Determine the **biggest contributor** within the Food category
+* **3. Month-on-Month Food Inflation (Jun’22 – May’23)**
 
-**4. COVID-19 Impact on CPI (Pre vs. Post Mar’20)**
+* * Study 12-month food inflation trajectory
+* * Highlight months with **highest and lowest food inflation**
+* * Determine the **biggest contributor** within the Food category
 
-* Compare inflation before and after pandemic onset
-* Focus on Healthcare, Food, and Essential Services inflation
+* **4. COVID-19 Impact on CPI (Pre vs. Post Mar’20)**
 
-**5. Oil Price Fluctuations vs. CPI (2021–23)**
+* * Compare inflation before and after pandemic onset
+* * Focus on Healthcare, Food, and Essential Services inflation
 
-* Analyze how **crude oil price movements** affected India’s CPI
-* Identify **CPI categories** most responsive to oil price changes
+* **5. Oil Price Fluctuations vs. CPI (2021–23)**
+
+* * Analyze how **crude oil price movements** affected India’s CPI
+* * Identify **CPI categories** most responsive to oil price changes
 
 ---
 
