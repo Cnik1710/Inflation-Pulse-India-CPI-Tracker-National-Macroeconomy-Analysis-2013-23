@@ -99,29 +99,29 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
 
 * **1. CPI Category Contribution**
 
-*  Identify contribution of major CPI categories (Food, Energy, Health, etc.)
-*  Determine which category has the **highest weight** in CPI composition
+  *  Identify contribution of major CPI categories (Food, Energy, Health, etc.)
+  *  Determine which category has the **highest weight** in CPI composition
 
 * **2. Year-on-Year CPI Inflation Trends**
 
-*  Analyze YoY inflation (Rural + Urban) since 2017
-*  Identify the **year with highest inflation rate** and reasons behind it
+  *  Analyze YoY inflation (Rural + Urban) since 2017
+  *  Identify the **year with highest inflation rate** and reasons behind it
 
 * **3. Month-on-Month Food Inflation (Jun’22 – May’23)**
 
-*  Study 12-month food inflation trajectory
-*  Highlight months with **highest and lowest food inflation**
-*  Determine the **biggest contributor** within the Food category
+  *  Study 12-month food inflation trajectory
+  *  Highlight months with **highest and lowest food inflation**
+  *  Determine the **biggest contributor** within the Food category
 
 * **4. COVID-19 Impact on CPI (Pre vs. Post Mar’20)**
 
-*  Compare inflation before and after pandemic onset
-*  Focus on Healthcare, Food, and Essential Services inflation
+  *  Compare inflation before and after pandemic onset
+  *  Focus on Healthcare, Food, and Essential Services inflation
 
 * **5. Oil Price Fluctuations vs. CPI (2021–23)**
 
-*  Analyze how **crude oil price movements** affected India’s CPI
-*  Identify **CPI categories** most responsive to oil price changes
+  *  Analyze how **crude oil price movements** affected India’s CPI
+  *  Identify **CPI categories** most responsive to oil price changes
 
 ---
 
