@@ -145,6 +145,8 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
 
 ## 📍 Conclusion
 
+**Summary:**
+
 * **Food inflation** remains the dominant driver due to ~50% CPI weightage.
 * **2022 inflation peaks** exposed vulnerabilities in supply-chain resilience and global dependency.
 * **Month-on-month volatility** in essentials directly affects low-income households.
@@ -205,4 +207,3 @@ Used to assess relationships (e.g., crude oil vs. CPI).
 
 ---
 
-Would you like me to create a **shorter PowerPoint version (slide-wise breakdown)** of this README next (each section condensed into 1 crisp slide)?
