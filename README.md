@@ -172,17 +172,17 @@ aids in hedging and informed portfolio planning.
 
 ## ✅ Business Impact & Use Cases
 
-**Government & Policy Bodies:**
-Enable data-driven inflation control, subsidy allocation, and stabilization measures.
+* **Government & Policy Bodies:**
+    Enable data-driven inflation control, subsidy allocation, and stabilization measures.
 
-**Economic Planners & Analysts:**
-Forecast inflation trends, assess sectoral pressures, and frame monetary responses.
+* **Economic Planners & Analysts:**
+    Forecast inflation trends, assess sectoral pressures, and frame monetary responses.
 
-**Investors & Financial Institutions:**
-Leverage CPI–oil correlations to anticipate market movements and optimize strategies.
+* **Investors & Financial Institutions:**
+    Leverage CPI–oil correlations to anticipate market movements and optimize strategies.
 
-**General Public & Businesses:**
-Track cost-of-living trends and adjust budgets or pricing models accordingly.
+* **General Public & Businesses:**
+    Track cost-of-living trends and adjust budgets or pricing models accordingly.
 
 ---
 
