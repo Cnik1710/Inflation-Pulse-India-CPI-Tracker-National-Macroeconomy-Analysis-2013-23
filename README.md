@@ -87,10 +87,9 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
 **Key Excel Functions Used:**
 `=IF()`, `=AVERAGE()`, custom percentage-change formulas
 
-**Data Preparation:**
-
-* Cleaned and imputed missing observations
-* Aggregated detailed categories into broader economic buckets (Food, Energy, Essentials) for macro-level analysis
+**Data Preparation & Processing:**
+* Data Cleaning: Missing observations handled and imputed with 3-month moving averages.
+* Aggregation: Detailed subcategories were aggregated into broader economic buckets (Food, Energy, Essentials) for macro-analysis.
 
 ---
 
