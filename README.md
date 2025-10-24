@@ -73,7 +73,7 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
 ---
 
 ## 📈 Methodology & Analysis
-**Data Preparation & Processing:**
+**Preparation, Process & Analytical Approach:**
   * Grouped detailed subcategories (e.g., **Cereals, Beverages, Milk**) into broader economic buckets such as **Food, Clothing &     Footwear, Energy, Health**, etc. for comprehensive analysis.
 
   * Computed **Year-on-Year (YoY) and Month-on-Month (MoM) inflation rates** using CPI index values
