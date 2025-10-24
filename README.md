@@ -84,7 +84,7 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
 
   * Compared **Pre- vs. Post-COVID** inflation patterns (cutoff: March 2020).
 
-  * Performed data cleaning and imputation for missing values using a **3-month moving average** technique.
+  * Performed **data cleaning and imputation** for missing values using a **3-month moving average** technique.
 
   * Created **line, bar, and pie charts** to visualize category trends and inflation dynamics.
 
