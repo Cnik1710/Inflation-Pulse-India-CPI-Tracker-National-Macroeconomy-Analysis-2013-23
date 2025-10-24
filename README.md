@@ -73,23 +73,23 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
 ---
 
 ## 📈 Methodology & Analysis
-
-**Approach:**
-
-* Grouped detailed subcategories (e.g., *Cereals, Beverages, Milk*) into macro-economic buckets like *Food, Clothing, Energy, Health*, etc.
-* Computed **YoY and MoM inflation rates** using CPI indices.
-* Calculated category contributions ensuring **100% total weight alignment** with CPI basket.
-* Conducted **correlation analysis** using `=CORREL()` (e.g., oil vs. CPI).
-* Compared **Pre- vs. Post-COVID** inflation trends (cutoff: Mar 2020).
-* Addressed missing values using **3-month moving average**.
-* Created **line, bar, and pie charts** with slicers for interactivity.
-
-**Key Excel Functions Used:**
-`=IF()`, `=AVERAGE()`, custom percentage-change formulas
-
 **Data Preparation & Processing:**
-* **Data Cleaning:** Missing observations handled and imputed with 3-month moving averages.
-* **Aggregation:** Detailed subcategories were aggregated into broader economic buckets (Food, Energy, Essentials) for macro-analysis.
+  * Grouped detailed subcategories (e.g., **Cereals, Beverages, Milk**) into broader economic buckets such as **Food, Clothing &     Footwear, Energy, Health**, etc. for comprehensive analysis.
+
+  * Computed **Year-on-Year (YoY) and Month-on-Month (MoM) inflation rates** using CPI index values
+
+  * Calculated percentage contribution of each category to total CPI, ensuring **all weights sum to 100%**, reflecting each segment’s proportional impact.
+
+  * Conducted **correlation analysis using `=CORREL()`** (e.g., imported oil prices vs. CPI categories).
+
+  * Compared **Pre- vs. Post-COVID** inflation patterns (cutoff: March 2020).
+
+  * Performed data cleaning and imputation for missing values using a **3-month moving average** technique.
+
+  * Created **line, bar, and pie charts** to visualize category trends and inflation dynamics.
+
+  * Utilized key Excel functions like **`=IF()`, `=AVERAGE()` and custom percentage-change** formulas for calculations and automation.
+
 
 ---
 
