@@ -52,8 +52,7 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
 
 * **Primary:** National Statistical Office (NSO), Ministry of Statistics & Programme Implementation (MoSPI), Government of India
 * **Supplementary:** Monthly crude oil prices (Brent/Indian Basket) from Petroleum Planning & Analysis Cell (PPAC), Govt. of India
-
-**Time Period:** January 2013 – December 2023 (11 years, monthly frequency)
+* **Time Period:** January 2013 – December 2023 (11 years, monthly frequency)
 
 ### **Data Structure & Metrics:**
 
