@@ -56,7 +56,7 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
 
 ### **Data Structure & Metrics:**
 
-* **Index Types:** CPI–Rural (CPI-R), CPI–Urban (CPI-U), CPI–Combined (General)
+* **Key Index Types:** CPI–Rural (CPI-R), CPI–Urban (CPI-U), CPI–Combined (General)
 * **Categories:** 20+ CPI sub-groups aggregated into broader buckets — *Food & Beverages, Fuel & Light, Housing, Clothing & Footwear, Transport, Healthcare, Miscellaneous*
 * **Calculated Metrics:** YoY inflation %, MoM % change, pre/post-COVID comparisons, correlation matrices
 
