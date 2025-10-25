@@ -6,21 +6,21 @@
 
 To develop a **structured, visual, and data-driven analysis** of India’s Consumer Price Index (CPI) to uncover actionable insights that support **economic decision-making** at both policy and strategic levels.
 
-**Project Purpose:**
+### **Project Purpose:**
 
 * Identify key contributors to inflation by analyzing **category-wise CPI weights** and **index changes**.
 * Evaluate **historical and recent inflation trends**, both Year-on-Year (YoY) and Month-on-Month (MoM).
 * Assess the impact of **major global and domestic events**—such as COVID-19 and international oil-price fluctuations—on India’s inflation dynamics.
 * Create an **interactive dashboard** that transforms complex CPI data into clear visuals for policymakers, strategists, and analysts.
 
-**Key KPIs:**
+### **Key KPIs:**
 
 * Overall CPI inflation trend (annual & monthly)
 * Category-wise inflation contribution
 * Pre- vs. Post-COVID inflation shifts
 * Correlation of crude oil prices with fuel & food inflation
 
-**Deliverables:**
+### **Deliverables:**
 
 * Excel dashboard
 * Presentation slides summarizing insights
@@ -48,14 +48,14 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
 
 ## 🗂️ Data Overview & Schema
 
-**Data Source:**
+### **Data Source:**
 
 * **Primary:** National Statistical Office (NSO), Ministry of Statistics & Programme Implementation (MoSPI), Government of India
 * **Supplementary:** Monthly crude oil prices (Brent/Indian Basket) from Petroleum Planning & Analysis Cell (PPAC), Govt. of India
 
 **Time Period:** January 2013 – December 2023 (11 years, monthly frequency)
 
-**Data Structure & Metrics:**
+### **Data Structure & Metrics:**
 
 * **Index Types:** CPI–Rural (CPI-R), CPI–Urban (CPI-U), CPI–Combined (General)
 * **Categories:** 20+ CPI sub-groups aggregated into broader buckets — *Food & Beverages, Fuel & Light, Housing, Clothing & Footwear, Transport, Healthcare, Miscellaneous*
@@ -65,7 +65,7 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
 
 ## 💻 Tech Stack
 
-**Tools:**
+### **Tools:**
 
 * **Microsoft Excel:** Data cleaning, preprocessing, analysis, visualization, and dashboard creation
 * **PowerPoint:** Presentation and final dashboard snapshots
@@ -73,7 +73,7 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
 ---
 
 ## 📈 Methodology & Analysis
-**Preparation, Process & Analytical Approach:**
+### **Preparation, Process & Analytical Approach:**
   * Grouped detailed subcategories (e.g., **Cereals, Beverages, Milk**) into broader economic buckets such as **Food, Clothing &     Footwear, Energy, Health**, etc. for comprehensive analysis.
 
   * Computed **Year-on-Year (YoY) and Month-on-Month (MoM) inflation rates** using CPI index values
@@ -95,7 +95,7 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
 
 ## ❓ Problem Statements
 
-**Key Questions:**
+### **Key Questions:**
 
 * **1. CPI Category Contribution**
 
@@ -127,7 +127,7 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
 
 ## 💡 Key Insights
 
-**Top Findings:**
+### **Top Findings:**
 
 * *Food & Beverages* consistently the largest inflation driver (~45% CPI weight).
 * *Fuel & Light* exhibited highest volatility, correlated with oil prices (**r ≈ 0.82**).
@@ -136,7 +136,7 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
 * Headline CPI exceeded **RBI’s 6% tolerance band** multiple times, reflecting supply shocks.
 * Fuel price spikes showed **ripple effects on food inflation**, highlighting cost-push dynamics.
 
-**Supporting Metrics:**
+### **Supporting Metrics:**
 
 * Avg. YoY CPI growth (2020–23): **6.4%**
 * Max inflation: **7.8% (Fuel & Light, 2022)**
@@ -146,7 +146,7 @@ To develop a **structured, visual, and data-driven analysis** of India’s Consu
 
 ## 📍 Conclusion
 
-**Summary:**
+### **Summary:**
 
 * **Food inflation** remains the primary driver of India’s overall CPI due to its nearly 50% weight — making supply-side stability critical.
   
@@ -194,10 +194,10 @@ aids in hedging and informed portfolio planning.
 
 ## 🙏 Acknowledgements
 
-**Project Analyst:** Anik Chakraborty
+### **Project Analyst:** Anik Chakraborty
 📧 *[anikc1710@gmail.com](mailto:anikc1710@gmail.com)*
 
-**Special Thanks To:**
+### **Special Thanks To:**
 
 * National Statistical Office (NSO) – for CPI data
 * Petroleum Planning & Analysis Cell (PPAC) – for crude oil price data
